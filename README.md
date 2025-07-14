@@ -8,6 +8,7 @@
 🎮 A creative coder & gamer with a passion for AI and pixel-perfect experiences.  
 🚀 On a mission to make the world better – pixel by pixel, line by line, and idea by idea.  
 ❤️ Let’s build the future together — with passion!
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI-LOVER;Code-LOVER;Python-Developer)](https://git.io/typing-svg)
 
 ---
