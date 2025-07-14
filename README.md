@@ -1,6 +1,6 @@
 <div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="Support Palestine" style="width: 100%;"></a></div>
 
-## 👋 Hi there, I'm Alireza (aka RaitonRed)
+## 👋 Hi there, I'm Alireza (aka RaitonRed) [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI-LOVER;Code-LOVER;Python-Developer)](https://git.io/typing-svg)
 
 [![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaitonRed&theme=ayu-mirage)](https://github.com/RaitonRed/)
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200"/>
@@ -8,8 +8,6 @@
 🎮 A creative coder & gamer with a passion for AI and pixel-perfect experiences.  
 🚀 On a mission to make the world better – pixel by pixel, line by line, and idea by idea.  
 ❤️ Let’s build the future together — with passion!
-
-<center> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI-LOVER;Code-LOVER;Python-Developer)](https://git.io/typing-svg) </center>
 
 ---
 
