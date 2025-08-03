@@ -17,7 +17,14 @@
 
 ---
 
-### 📺 Subscribe to my **YouTube Channel**
+### 🩵 Donate Me
+
+- TON: ``UQDNzsrF32TWBl_dFhtWam-Q-2VO5mZgis0m9W0ilm4Meb4B``
+- TRON: ``TDuuQQCzKaSLscgyQyRTocp6SJAdnD6uDb``
+
+---
+
+### 📺 Join my **Telegram Channel**
 
 ```bash
 $ whoami
