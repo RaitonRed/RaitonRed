@@ -24,8 +24,6 @@
 
 ---
 
-### 📺 Join my **Telegram Channel**
-
 ```bash
 $ whoami
 
