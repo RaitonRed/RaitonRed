@@ -19,8 +19,8 @@
 
 ### 🩵 Donate Me
 
-- TON: ``UQDNzsrF32TWBl_dFhtWam-Q-2VO5mZgis0m9W0ilm4Meb4B``
-- TRON: ``TDuuQQCzKaSLscgyQyRTocp6SJAdnD6uDb``
+- TON: ``UQAyVhowpAHuH-WexQZ1zqPYGzul70Qovg508a8uhw3-BgCj``
+
 
 ---
 
