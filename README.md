@@ -1,7 +1,5 @@
 ## 👋 Hi there, I'm Alireza (aka RaitonRed)
 
-<img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif" width="160" />
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaitonRed&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 🎮 A creative coder & gamer with a passion for AI and pixel-perfect experiences.  
