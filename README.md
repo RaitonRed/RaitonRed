@@ -10,8 +10,8 @@
 
 ### 💻 What I'm up to:
 
-- 🔭 Currently working on: **My Personal Blockchain project**
-- 🌱 Learning: **Machine Learning** & **AI-powered Robotics**
+- 🔭 Currently working on: **Nothing**
+- 🌱 Learning: **flutter** & **flet**
 - 🎥 Making content on Telegram: Minecraft builds, timelapses, coding & more!
 
 ---
