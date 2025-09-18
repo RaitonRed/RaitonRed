@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Alireza (aka RaitonRed)
+## 👋 Hi there, I'm Astro
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaitonRed&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
