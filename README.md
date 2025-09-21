@@ -22,6 +22,7 @@
 - BTC: ``bc1qay7knee8dww3a4cqjfdlt4qk42kf97vhe7cq75``
 - ETH: ``0x7905f78cE79f8A951B92909A24ee55f0fB154C06``
 - TRX: ``TM4HtaVunB2VNoZ19hfzTnXgpPpDsvMbd2``
+- XMR: ``4B1V3cRZpPiNbbrHgrdrUhSdagxEZV19r5H5sNBZ3qTFVkJY7bGWQdB7C8AMtUoDsi3XxvAdDjcmHND5itfzR4fz5gDJ5op``
 
 ---
 
