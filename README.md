@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Minton
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaitonRed&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaitonRed&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 🎮 A creative coder & gamer with a passion for AI and pixel-perfect experiences.  
 🚀 On a mission to make the world better – pixel by pixel, line by line, and idea by idea.  
@@ -10,7 +10,7 @@
 
 ### 💻 What I'm up to:
 
-- 🔭 Currently working on: **Nothing**
+- 🔭 Currently working on: **Pulse (My Twitter like platform)**
 - 🌱 Learning: **flutter** & **flet**
 - 🎥 Making content on Telegram: Minecraft builds, timelapses, coding & more!
 
